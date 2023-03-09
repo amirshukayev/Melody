@@ -1,6 +1,6 @@
 # Melody
 
-![image](https://user-images.githubusercontent.com/13120817/223972001-f182f8e2-372a-41c9-a053-bb027e745b98.png)
+![image](https://user-images.githubusercontent.com/13120817/223972001-f182f8e2-372a-41c9-a053-bb027e745b98.png =400x400 )
 
 Toy chain of thought based prompting system for LLMs. Uses Cohere or OpenAI endpoints to create a simple programming
 assistant that acts autonymously to explain parts of a project:
